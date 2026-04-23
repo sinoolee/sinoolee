@@ -77,10 +77,11 @@
 
 ## 📬 Contact / Follow
 
-如果你有相关问题，欢迎交流👇  
-微信：edigitalchoicecs
-邮箱：myggpark@gmail.com
-电报：@hahalee
+ **如果你有相关问题，欢迎交流**👇  
+<br> **微信**：edigitalchoicecs
+<br> **邮箱**：myggpark@gmail.com
+<br> **电报**：@hahalee
+
 ---
 
 ⭐ 如果你觉得这些内容对你有帮助，欢迎 Star 或关注！
